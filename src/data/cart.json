@@ -1,0 +1,27 @@
+[      
+        {"pgname":"SaiPg",
+        "bedList":{
+                  "bed_id":"Bed A1",
+                  "tenant_id":null,
+                  "start_date":null,
+                  "end_date":null
+                  },
+        "aminList":[
+                        {
+                        "name":"wifi",
+                        "availability":true,
+                        "charge":600
+                        },
+                        {
+                        "name":"gym",
+                        "availability":true,
+                        "charge":400
+                        }
+                    ],
+        "bookingCount":1,
+        "bedprice":4000,
+        "aminprice":1000,
+        "totalprice":5000
+                }
+
+]

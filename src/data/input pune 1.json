@@ -1,0 +1,91 @@
+{
+    "pg_id" : "PG111",
+    "name" : "Ssiram PG",
+    "address" : "Cosmos Magarpatta, Behind Tower 2",
+    "owner_name" : "Siddharth Choudhary",
+    "contact" : 7898537874,
+    "area" : "Viman Nagar",
+    "city" : "Pune",
+    "state" : "Maharashtra",
+    "pincode" : 411028,
+    "rent_min" : 6000,
+    "rent_max" : 9500,
+    "total_rooms": 2,
+    "total_beds": 5,
+    "available_beds": 5,
+    "basicAmenities":  [
+    	{
+        	"name" : "bed",
+        	"availability" : true,
+        	"charge" : 0
+        },
+        {
+        	"name" : "cupboard",
+        	"availability" : true,
+        	"charge" : 0
+        },
+        {
+        	"name" : "ac",
+        	"availability" : true,
+        	"charge" : 0
+        },
+        {
+        	"name" : "washing_machine",
+        	"availability" : true,
+        	"charge" : 0
+        }
+	],
+    "optionalAmenities": [
+    	{
+        	"name" : "wifi",
+        	"availability" : true,
+        	"charge" : 600
+        }
+	],
+    "rooms": [
+        {
+            "id": null,
+            "no_of_bed": 3,
+            "rent_per_bed": 4000,
+            "bedList": [
+                {
+                    "bed_id": null,
+                    "tenant_id": "tenant1212",
+                    "start_date": "2020-01-01",
+                    "end_date": "2020-06-01"
+                },
+                {
+                    "bed_id": null,
+                    "tenant_id": "tenant1232",
+                    "start_date": "2020-01-06",
+                    "end_date": "2020-04-30"
+                },
+                {
+                    "bed_id": null,
+                    "tenant_id": "tenant2212",
+                    "start_date": "2020-01-10",
+                    "end_date": "2020-03-10"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "no_of_bed": 2,
+            "rent_per_bed": 4500,
+            "bedList": [
+                {
+                    "bed_id": null,
+                    "tenant_id": "tenant1234",
+                    "start_date": "2020-01-06",
+                    "end_date": "2020-06-06"
+                },
+                {
+                    "bed_id": null,
+                    "tenant_id": "tenant2345",
+                    "start_date": "2020-01-06",
+                    "end_date": "2020-05-06"
+                }
+            ]
+        }
+    ]
+}

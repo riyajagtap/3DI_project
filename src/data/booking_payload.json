@@ -1,0 +1,9 @@
+[{
+	"first_name" : "Siddharth",
+	"last_name" : "Choudhary",
+	"bed_id" : "BR5e54ca0c650ef03f8591b7df10",
+	"amenities_opted" : ["wifi","gym","meal","swimming"],
+	"start_date" : "2020-05-12",
+	"end_date" : "2020-09-12",
+	"total_rent" : 5500
+}]
